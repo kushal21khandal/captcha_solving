@@ -1,0 +1,346 @@
+1679511944309	geckodriver	INFO	Listening on 127.0.0.1:61207
+1679511947364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61208" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileNqeGVO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679511947791	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679511947799	Marionette	INFO	Listening on port 61224
+Read port: 61224
+WebDriver BiDi listening on ws://127.0.0.1:61208
+1679511947987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileNqeGVO\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61208/devtools/browser/09c445bf-057b-4a2d-bcdf-1cd2a545e976
+1679511991018	Marionette	INFO	Stopped listening on port 61224
+Dynamically enable window occlusion 1
+1679512011234	geckodriver	INFO	Listening on 127.0.0.1:61283
+1679512014276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilewkfjzn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679512014607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679512014615	Marionette	INFO	Listening on port 61294
+Read port: 61294
+WebDriver BiDi listening on ws://127.0.0.1:61284
+1679512014795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilewkfjzn\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61284/devtools/browser/2c838eb4-b342-47ee-89ac-2fa32cf66af9
+1679512034415	Marionette	INFO	Stopped listening on port 61294
+Dynamically enable window occlusion 1
+1679512454906	geckodriver	INFO	Listening on 127.0.0.1:61655
+1679512457991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileTa7OVG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679512458391	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679512458399	Marionette	INFO	Listening on port 61668
+Read port: 61668
+WebDriver BiDi listening on ws://127.0.0.1:61656
+1679512458584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileTa7OVG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61656/devtools/browser/c91d63aa-261a-4288-bd6d-d58d5d7948ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679515398344	Marionette	INFO	Stopped listening on port 61668
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileJPa5BC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679512488143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679512488150	Marionette	INFO	Listening on port 61732
+Read port: 61732
+WebDriver BiDi listening on ws://127.0.0.1:61720
+1679512488324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileJPa5BC\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:61720/devtools/browser/6355f90c-d74e-4c35-a419-f03bab2019e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679514349687	Marionette	INFO	Stopped listening on port 61732
+Dynamically enable window occlusion 1
+1679515048622	geckodriver	INFO	Listening on 127.0.0.1:64328
+1679515051729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileLHh8x8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679515052152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679515052159	Marionette	INFO	Listening on port 64341
+Read port: 64341
+WebDriver BiDi listening on ws://127.0.0.1:64329
+1679515052353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileLHh8x8\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64329/devtools/browser/4a7a0432-1619-4b50-a159-f6a2e4032752
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679515163110	Marionette	INFO	Stopped listening on port 64341
+Dynamically enable window occlusion 1
+1679515170670	geckodriver	INFO	Listening on 127.0.0.1:64483
+1679515173727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilePp5SKJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679515174061	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679515174068	Marionette	INFO	Listening on port 64497
+Read port: 64497
+WebDriver BiDi listening on ws://127.0.0.1:64484
+1679515174244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilePp5SKJ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64484/devtools/browser/1264331c-daa6-4505-8eb4-b3a0b8b5c9d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679515220276	Marionette	INFO	Stopped listening on port 64497
+Dynamically enable window occlusion 1
+1679515400613	geckodriver	INFO	Listening on 127.0.0.1:64727
+1679515403649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileQImPfA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679515403982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679515403989	Marionette	INFO	Listening on port 64739
+Read port: 64739
+WebDriver BiDi listening on ws://127.0.0.1:64728
+1679515404180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofileQImPfA\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64728/devtools/browser/180e8d58-67a2-41dd-a67d-7508e90f71fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679515445888	Marionette	INFO	Stopped listening on port 64739
+Dynamically enable window occlusion 1
+1679517066971	geckodriver	INFO	Listening on 127.0.0.1:49925
+1679517070029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilegCMpwe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679517070356	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679517070363	Marionette	INFO	Listening on port 49938
+Read port: 49938
+WebDriver BiDi listening on ws://127.0.0.1:49926
+1679517070532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilegCMpwe\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:49926/devtools/browser/35257e84-e13d-422a-ac16-07155a82b512
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679517170720	Marionette	INFO	Stopped listening on port 49938
+Dynamically enable window occlusion 1
+1679517213051	geckodriver	INFO	Listening on 127.0.0.1:50150
+1679517216100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilevneyFG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679517216433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679517216440	Marionette	INFO	Listening on port 50162
+Read port: 50162
+WebDriver BiDi listening on ws://127.0.0.1:50151
+1679517216609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilevneyFG\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50151/devtools/browser/7271a02a-5763-4c41-8aa8-fabff23a92dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679517285251	Marionette	INFO	Stopped listening on port 50162
+Dynamically enable window occlusion 1
+1679517631848	geckodriver	INFO	Listening on 127.0.0.1:50559
+1679517634907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50560" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofiletI3wAN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679517635237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679517635244	Marionette	INFO	Listening on port 50571
+Read port: 50571
+WebDriver BiDi listening on ws://127.0.0.1:50560
+1679517635417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofiletI3wAN\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50560/devtools/browser/6f04c890-706e-43ce-a4d4-85381e397553
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+1679517679410	Marionette	INFO	Stopped listening on port 50571
+Dynamically enable window occlusion 1
+1679518198026	geckodriver	INFO	Listening on 127.0.0.1:51085
+1679518201100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilenEiOgc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679518201429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679518201437	Marionette	INFO	Listening on port 51097
+Read port: 51097
+WebDriver BiDi listening on ws://127.0.0.1:51086
+1679518201606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilenEiOgc\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51086/devtools/browser/410b7c73-5e0e-4488-b8f1-4a2813066ab2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679518817924	Marionette	INFO	Stopped listening on port 51097
+Dynamically enable window occlusion 1
+1679518819943	geckodriver	INFO	Listening on 127.0.0.1:51690
+1679518823000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofile8K9x7v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679518823369	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679518823377	Marionette	INFO	Listening on port 51702
+Read port: 51702
+WebDriver BiDi listening on ws://127.0.0.1:51691
+1679518823547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofile8K9x7v\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51691/devtools/browser/be3a6f1d-f9b7-4014-bc8e-1212c8f1ace6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1679519012396	Marionette	INFO	Stopped listening on port 51702
+Dynamically enable window occlusion 1
+1679519016869	geckodriver	INFO	Listening on 127.0.0.1:51911
+1679519019919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofile4LbmEF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679519020248	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679519020256	Marionette	INFO	Listening on port 51924
+Read port: 51924
+WebDriver BiDi listening on ws://127.0.0.1:51912
+1679519020424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofile4LbmEF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51912/devtools/browser/7895ddb8-f6a0-4798-a22c-a87684625d60
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("can't access property \"addBlocker\", lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 24: TypeError: can't access property "ownerGlobal", browser is null
+console.error: ({})
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 24: TypeError: can't access property "ownerGlobal", browser is null
+1679519138307	Marionette	INFO	Stopped listening on port 51924
+Dynamically enable window occlusion 1
+1679550656746	geckodriver	INFO	Listening on 127.0.0.1:50461
+1679550659832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofiletjVbEP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679550660336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679550660344	Marionette	INFO	Listening on port 50478
+Read port: 50478
+WebDriver BiDi listening on ws://127.0.0.1:50462
+1679550660528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofiletjVbEP\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50462/devtools/browser/955c9da0-a094-4a8a-8d16-faf6ad3ae376
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("can't access property \"addBlocker\", lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 24: TypeError: can't access property "ownerGlobal", browser is null
+1679550860320	Marionette	INFO	Stopped listening on port 50478
+Dynamically enable window occlusion 1
+1679551492966	geckodriver	INFO	Listening on 127.0.0.1:51067
+1679551496024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilemb3vQr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679551496462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679551496468	Marionette	INFO	Listening on port 51079
+Read port: 51079
+WebDriver BiDi listening on ws://127.0.0.1:51068
+1679551496607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofilemb3vQr\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51068/devtools/browser/bdb0ab86-4a86-461e-9375-25ba6d83b1b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("can't access property \"addBlocker\", lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 24: TypeError: can't access property "ownerGlobal", browser is null
+1679552906728	Marionette	INFO	Stopped listening on port 51079
+Dynamically enable window occlusion 1
+ts" "localhost" "-no-remote" "-profile" "C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofile1gPzEt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679552899684	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679552899690	Marionette	INFO	Listening on port 51747
+Read port: 51747
+WebDriver BiDi listening on ws://127.0.0.1:51737
+1679552899856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KUSHAL\\AppData\\Local\\Temp\\rust_mozprofile1gPzEt\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51737/devtools/browser/7b5d1dda-a758-4c79-882e-1a989de0ae5a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://myacademy.oracle.com."
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("can't access property \"addBlocker\", lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 663"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:663:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2142:35
+addAllSources@resource://devtools/server/actors/thread.js:1474:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:312:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/base-target-actor.js:41:23
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:437:21
+Line: 663, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 663: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 24: TypeError: can't access property "ownerGlobal", browser is null
+1679553057333	Marionette	INFO	Stopped listening on port 51747
+Dynamically enable window occlusion 1

@@ -1,0 +1,1 @@
+FILE "without_loop_manual_file_upload.exe" will not be required when direct integeration with the web brwoser ,, the script will be modified to directly get the captcha frorm the webpage and run the script to get the result.
